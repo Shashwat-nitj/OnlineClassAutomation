@@ -19,6 +19,8 @@ opt.add_experimental_option("prefs", {
     "profile.default_content_setting_values.geolocation": 2,
     "profile.default_content_setting_values.notifications": 2
 })
+
+
 def now(): return int(datetime.now().strftime('%H%M'))
 
 
@@ -150,7 +152,7 @@ def microsoft_sign_in(email, password):
 
 def get_info():
     wb = load_workbook('automation.xlsx')
-    wb1 = wb['Sample']
+    wb1 = wb['Sheet 1']
     link_info = []
     c = datetime.today().weekday() * 3 + 1
     r = 3
