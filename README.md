@@ -1,5 +1,5 @@
 # OnlineClassAutomation
-*Bored of joining online classes day and night?
+*Bored of joining online classes day and night just for the sake of attendence?
 Missed some?...just bcz?
 Store your time table, run the software in the background, let your system handle things by itself from now on..*
 ## Steps for set up </br>
@@ -15,8 +15,8 @@ Store your time table, run the software in the background, let your system handl
 7. Waits for given duration, then leaves the meeting.</br>
 ## Salient Features</br>
 1. Default mode is all permissions off (audio, video, notification, etc.)</br>
-2. If email / password are wrong signin of that particular portal is aborted, and the program keeps running.</br>
+2. If email / password are wrong, signin of that particular portal is aborted, and the program keeps running.</br>
 *If there is a meeting scheduled at that particular portal, you are notified of the error at the time of the meeting.*</br>
 3. You can run the software, minimize the new chrome window opened and simply ignore it.</br>
 4. You are kept notified of what's being going on through windows notification.</br>
-5. All actions of the program (Joining, Leaving, Initializing Portals, Signing in, etc.) are recorder in the python output screen, which can be saved for record.</br>
+5. All actions of the program (Joining, Leaving, Initializing Portals, Signing in, etc.) are recorded in the python output screen, which can be saved for record.</br>
